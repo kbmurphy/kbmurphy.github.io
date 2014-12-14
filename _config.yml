@@ -11,3 +11,4 @@ github_username:  kbmurphy
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
