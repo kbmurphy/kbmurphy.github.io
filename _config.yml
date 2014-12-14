@@ -1,0 +1,13 @@
+# Site settings
+title: Testing a blog
+email: #kbmurphy@users.noreply.github.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a test of the GitHub server pages
+  for a user
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kbmurphy.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:  kbmurphy
+
+# Build settings
+markdown: kramdown
